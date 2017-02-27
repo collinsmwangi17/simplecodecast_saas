@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Coder Manual project application 
+subscrip[tion]-based web application
+https:\\codermanual.com
 
 Things you may want to cover:
 
@@ -22,3 +23,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
+#https://intense-hollows-29986.herokuapp.com/ 
