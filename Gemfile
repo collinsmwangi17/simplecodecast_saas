@@ -15,6 +15,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 #use bootstrap library for styles
 
+
 # Use postgresql as the database for production
 group :production do
   gem 'pg'
